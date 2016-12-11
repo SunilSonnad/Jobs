@@ -12,6 +12,9 @@ import com.job.model.Worker;
 @Component
 public class MatcherService {
 
+	/*
+	 * Ordered matchers. Check individual matcher file for order number.
+	 */
 	@Autowired
 	private List<Matcher> matchers;
 
