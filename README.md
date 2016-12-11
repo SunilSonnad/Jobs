@@ -13,3 +13,13 @@ Also there is no caching of results from the two calls.
 The rest api exposed by this application is <br>
                 http://localhost:8080/api/workers/workerid/newjobs <br>
   
+
+## Execution
+Clone the repo
+* git clone <repo>
+* cd Jobs (move into folder)
+* mvn package
+
+To start the Spring App.
+* java -jar target/sj-spring-boot-0.1.0.jar
+
