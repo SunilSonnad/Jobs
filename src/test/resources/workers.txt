@@ -1,0 +1,414 @@
+[
+  {
+    "rating": 2,
+    "isActive": true,
+    "certificates": [
+      "Outstanding Innovator",
+      "The Behind the Scenes Wonder",
+      "The Risk Taker",
+      "Outside the Box Thinker",
+      "Marvelous Multitasker",
+      "The Asker of Good Questions",
+      "Outstanding Memory Award",
+      "Office Lunch Expert",
+      "Excellence in Organization"
+    ],
+    "skills": [
+      "Creator of opportunities",
+      "Arts and Crafts Designer"
+    ],
+    "jobSearchAddress": {
+      "unit": "km",
+      "maxJobDistance": 30,
+      "longitude": "13.971284",
+      "latitude": "49.782281"
+    },
+    "transportation": "CAR",
+    "hasDriversLicense": false,
+    "availability": [
+      {
+        "title": "Tuesday",
+        "dayIndex": 2
+      },
+      {
+        "title": "Monday",
+        "dayIndex": 1
+      },
+      {
+        "title": "Sunday",
+        "dayIndex": 7
+      },
+      {
+        "title": "Thursday",
+        "dayIndex": 4
+      },
+      {
+        "title": "Friday",
+        "dayIndex": 5
+      },
+      {
+        "title": "Wednesday",
+        "dayIndex": 3
+      },
+      null
+    ],
+    "phone": "+1 (847) 420-3272",
+    "email": "fowler.andrews@comcubine.io",
+    "name": {
+      "last": "Andrews",
+      "first": "Fowler"
+    },
+    "age": 30,
+    "guid": "562f6647410ecd6bf49146e9",
+    "userId": 0
+  },
+  {
+    "rating": 2,
+    "isActive": false,
+    "certificates": [
+      "The Risk Taker",
+      "The Encouraging Word Award",
+      "Marvelous Multitasker",
+      "Calm in the Eye of the Storm",
+      "The Behind the Scenes Wonder",
+      "Healthy Living Promoter",
+      "The Asker of Good Questions",
+      "Outside the Box Thinker",
+      "Office Lunch Expert",
+      "Outstanding Innovator",
+      "Outstanding Memory Award",
+      "The Human Handbook",
+      "Excellence in Organization",
+      "Excellence in Humor and Entertainment"
+    ],
+    "skills": [
+      "Chief Troublemaker"
+    ],
+    "jobSearchAddress": {
+      "unit": "km",
+      "maxJobDistance": 30,
+      "longitude": "14.127058",
+      "latitude": "50.256714"
+    },
+    "transportation": "CAR",
+    "hasDriversLicense": true,
+    "availability": [
+      {
+        "title": "Saturday",
+        "dayIndex": 6
+      },
+      {
+        "title": "Monday",
+        "dayIndex": 1
+      },
+      {
+        "title": "Friday",
+        "dayIndex": 5
+      },
+      {
+        "title": "Sunday",
+        "dayIndex": 7
+      },
+      {
+        "title": "Wednesday",
+        "dayIndex": 3
+      },
+      {
+        "title": "Thursday",
+        "dayIndex": 4
+      }
+    ],
+    "phone": "+1 (835) 403-3411",
+    "email": "helga.alston@centree.ca",
+    "name": {
+      "last": "Alston",
+      "first": "Helga"
+    },
+    "age": 30,
+    "guid": "562f66479f8711e1c6ce94cb",
+    "userId": 1
+  },
+  {
+    "rating": 2,
+    "isActive": false,
+    "certificates": [
+      "Outstanding Innovator",
+      "The Risk Taker",
+      "Marvelous Multitasker",
+      "Outside the Box Thinker",
+      "Excellence in Organization",
+      "Office Lunch Expert",
+      "Outstanding Memory Award",
+      "Excellence in Humor and Entertainment",
+      "The Encouraging Word Award",
+      "Calm in the Eye of the Storm",
+      "The Behind the Scenes Wonder",
+      "The Human Handbook",
+      "The Asker of Good Questions",
+      null
+    ],
+    "skills": [
+      "President and TeaEO",
+      "Head of global trends and futuring",
+      "Arts and Crafts Designer"
+    ],
+    "jobSearchAddress": {
+      "unit": "km",
+      "maxJobDistance": 20,
+      "longitude": "14.093382",
+      "latitude": "50.049914"
+    },
+    "transportation": "CAR",
+    "hasDriversLicense": false,
+    "availability": [
+      {
+        "title": "Thursday",
+        "dayIndex": 4
+      },
+      {
+        "title": "Friday",
+        "dayIndex": 5
+      },
+      {
+        "title": "Monday",
+        "dayIndex": 1
+      },
+      {
+        "title": "Sunday",
+        "dayIndex": 7
+      },
+      {
+        "title": "Tuesday",
+        "dayIndex": 2
+      }
+    ],
+    "phone": "+1 (987) 418-2359",
+    "email": "ruthie.ruiz@zytrax.co.uk",
+    "name": {
+      "last": "Ruiz",
+      "first": "Ruthie"
+    },
+    "age": 32,
+    "guid": "562f6647f06d32fa053d3b7a",
+    "userId": 2
+  },
+  {
+    "rating": 2,
+    "isActive": false,
+    "certificates": [
+      "Excellence in Humor and Entertainment",
+      "Outstanding Innovator",
+      "Outstanding Memory Award",
+      "The Encouraging Word Award",
+      "Healthy Living Promoter",
+      "Excellence in Organization",
+      "Calm in the Eye of the Storm",
+      "Marvelous Multitasker",
+      "The Asker of Good Questions"
+    ],
+    "skills": [
+      "Genius",
+      "VP of Misc. Stuff",
+      "The Resinator",
+      "Director of First Impressions",
+      "Ambassador of buzz"
+    ],
+    "jobSearchAddress": {
+      "unit": "km",
+      "maxJobDistance": 50,
+      "longitude": "15.190295",
+      "latitude": "50.083564"
+    },
+    "transportation": "CAR",
+    "hasDriversLicense": true,
+    "availability": [
+      {
+        "title": "Monday",
+        "dayIndex": 1
+      },
+      {
+        "title": "Saturday",
+        "dayIndex": 6
+      },
+      {
+        "title": "Wednesday",
+        "dayIndex": 3
+      },
+      {
+        "title": "Sunday",
+        "dayIndex": 7
+      },
+      {
+        "title": "Thursday",
+        "dayIndex": 4
+      },
+      {
+        "title": "Friday",
+        "dayIndex": 5
+      }
+    ],
+    "phone": "+1 (927) 580-3189",
+    "email": "michael.wright@magnina.org",
+    "name": {
+      "last": "Wright",
+      "first": "Michael"
+    },
+    "age": 39,
+    "guid": "562f6647f08189a1eada56a9",
+    "userId": 3
+  },
+  {
+    "rating": 1,
+    "isActive": false,
+    "certificates": [
+      "Outstanding Innovator",
+      "Excellence in Humor and Entertainment",
+      "Office Lunch Expert",
+      "Calm in the Eye of the Storm",
+      "Outstanding Memory Award",
+      "Outside the Box Thinker",
+      "Healthy Living Promoter",
+      "The Asker of Good Questions",
+      "Excellence in Organization",
+      "The Behind the Scenes Wonder",
+      "Marvelous Multitasker",
+      "The Encouraging Word Award"
+    ],
+    "skills": [
+      "VP of Misc. Stuff",
+      "Chief Troublemaker",
+      "Director of First Impressions",
+      "Arts and Crafts Designer"
+    ],
+    "jobSearchAddress": {
+      "unit": "km",
+      "maxJobDistance": 40,
+      "longitude": "15.089318",
+      "latitude": "50.112069"
+    },
+    "transportation": "CAR",
+    "hasDriversLicense": false,
+    "availability": [
+      {
+        "title": "Monday",
+        "dayIndex": 1
+      },
+      {
+        "title": "Saturday",
+        "dayIndex": 6
+      }
+    ],
+    "phone": "+1 (948) 546-3559",
+    "email": "kennedy.espinoza@greeker.net",
+    "name": {
+      "last": "Espinoza",
+      "first": "Kennedy"
+    },
+    "age": 22,
+    "guid": "562f664704c51fb1809c7a38",
+    "userId": 4
+  },
+  {
+    "rating": 2,
+    "isActive": true,
+    "certificates": [
+      "Outstanding Innovator",
+      "The Human Handbook",
+      "Calm in the Eye of the Storm",
+      "The Asker of Good Questions",
+      "Excellence in Organization",
+      "Healthy Living Promoter",
+      "The Behind the Scenes Wonder",
+      "Outstanding Memory Award",
+      "The Encouraging Word Award"
+    ],
+    "skills": [
+      "Head of global trends and futuring",
+      "Ambassador of buzz"
+    ],
+    "jobSearchAddress": {
+      "unit": "km",
+      "maxJobDistance": 100,
+      "longitude": "14.372779",
+      "latitude": "50.072277"
+    },
+    "transportation": "CAR",
+    "hasDriversLicense": true,
+    "availability": [
+      {
+        "title": "Monday",
+        "dayIndex": 1
+      },
+      {
+        "title": "Tuesday",
+        "dayIndex": 2
+      },
+      {
+        "title": "Sunday",
+        "dayIndex": 7
+      },
+      {
+        "title": "Wednesday",
+        "dayIndex": 3
+      },
+      {
+        "title": "Saturday",
+        "dayIndex": 6
+      }
+    ],
+    "phone": "+1 (940) 457-3760",
+    "email": "mccall.tyson@enervate.biz",
+    "name": {
+      "last": "Tyson",
+      "first": "Mccall"
+    },
+    "age": 30,
+    "guid": "562f6647dcb0e96a6d188762",
+    "userId": 5
+  },
+  {
+    "rating": 3,
+    "isActive": false,
+    "certificates": [
+      "Calm in the Eye of the Storm",
+      "Outside the Box Thinker",
+      "The Human Handbook",
+      "The Encouraging Word Award",
+      "Excellence in Humor and Entertainment",
+      "Excellence in Organization",
+      "The Risk Taker",
+      "Office Lunch Expert",
+      "The Behind the Scenes Wonder",
+      "Healthy Living Promoter",
+      "The Asker of Good Questions",
+      "Outstanding Memory Award",
+      "Outstanding Innovator"
+    ],
+    "skills": [
+      "Master of Disaster"
+    ],
+    "jobSearchAddress": {
+      "unit": "km",
+      "maxJobDistance": 20,
+      "longitude": "14.411485",
+      "latitude": "50.286327"
+    },
+    "transportation": "CAR",
+    "hasDriversLicense": true,
+    "availability": [
+      {
+        "title": "Friday",
+        "dayIndex": 5
+      }
+    ],
+    "phone": "+1 (953) 459-3118",
+    "email": "fleming.petersen@insectus.biz",
+    "name": {
+      "last": "Petersen",
+      "first": "Fleming"
+    },
+    "age": 34,
+    "guid": "562f6647a35712f74fc49c6b",
+    "userId": 6
+  }
+]
